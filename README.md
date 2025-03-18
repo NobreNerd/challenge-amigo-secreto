@@ -6,10 +6,12 @@ Este é um projeto dinamico e objetivo para **sortear um amigo secreto**, ideal 
 ## 📸 Demonstração
 
 - Site aberto em um Desktop:
-![screenshot](.assets/screenshot_desktop.png)
+  
+![screenshot](assets/screenshot_desktop.png)
 
 - Site aberto em um Celular (Mobile):
-![screenshot](.assets/screenshot_mobile.png)
+  
+![screenshot](assets/screenshot_mobile.png)
 
 ## 🚀 Tecnologias utilizadas
 
