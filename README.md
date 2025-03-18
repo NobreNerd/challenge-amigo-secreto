@@ -35,9 +35,12 @@ Efetuei algumas alterações de alinhamento no projeto base na parte de CSS para
 
 ## 📋 Como usar
 
-1. Digite os nomes no campo de entrada e clique em **"Adicionar"**.
+1. Abra o projeto já compilado para teste pelo endereço:
+https://challenge-amigo-secreto-one-pi.vercel.app/
 
-2. Clique em **"Sortear amigo"** para que seu amigo secreto seja mostrado.
+2. Digite os nomes no campo de entrada e clique em **"Adicionar"**.
+
+3. Clique em **"Sortear amigo"** para que seu amigo secreto seja mostrado.
 
 ## 🤝 Contribuindo
 
